@@ -8,6 +8,6 @@
         About
     </h2>
     <p>
-        Put content here.
+        Changement dans EricTest, a commiter dans develop.
     </p>
 </asp:Content>
